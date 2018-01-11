@@ -1,0 +1,9 @@
+
+[Core]
+Name = filter
+Module = filter
+
+[Documentation]
+Author = Toby Chong
+Version = 0.1
+Description = GUI
